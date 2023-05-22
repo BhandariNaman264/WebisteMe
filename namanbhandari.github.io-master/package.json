@@ -1,0 +1,18 @@
+{
+  "name": "namanbhandariwebsite",
+  "version": "1.0.0",
+  "description": "This is my website",
+  "main": "Na",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "na",
+  "license": "ISC"
+}
